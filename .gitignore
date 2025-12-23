@@ -1,0 +1,14 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers d'environnement virtuels
+venv/
+.venv/
+env/
+.env
+
+# Données brutes - NE PAS COMMITTER
+data/raw/

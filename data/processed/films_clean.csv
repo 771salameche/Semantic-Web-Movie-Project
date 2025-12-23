@@ -1,0 +1,501 @@
+Title,Actors,Director,Genre,Year,Runtime
+Minions,Sandra Bullock; Jon Hamm; Michael Keaton,Kyle Balda,Family; Animation; Adventure; Comedy,2015,91
+Wonder Woman,Gal Gadot; Chris Pine; Robin Wright,Patty Jenkins,Action; Adventure; Fantasy,2017,141
+Beauty and the Beast,Emma Watson; Dan Stevens; Luke Evans,Bill Condon,Family; Fantasy; Romance,2017,129
+Baby Driver,Ansel Elgort; Lily James; Kevin Spacey,Edgar Wright,Action; Crime,2017,113
+Big Hero 6,Scott Adsit; Ryan Potter; Daniel Henney,Chris Williams,Adventure; Family; Animation; Action; Comedy,2014,102
+Deadpool,Ryan Reynolds; Morena Baccarin; Ed Skrein,Tim Miller,Action; Adventure; Comedy,2016,108
+Guardians of the Galaxy Vol. 2,Chris Pratt; Zoe Saldana; Dave Bautista,James Gunn,Action; Adventure; Comedy; Science Fiction,2017,137
+Avatar,Sam Worthington; Zoe Saldana; Sigourney Weaver,James Cameron,Action; Adventure; Fantasy; Science Fiction,2009,162
+John Wick,Keanu Reeves; Michael Nyqvist; Alfie Allen,Chad Stahelski,Action; Thriller,2014,101
+Gone Girl,Ben Affleck; Rosamund Pike; Carrie Coon,David Fincher,Mystery; Thriller; Drama,2014,145
+The Hunger Games: Mockingjay - Part 1,Jennifer Lawrence; Josh Hutcherson; Liam Hemsworth,Francis Lawrence,Science Fiction; Adventure; Thriller,2014,123
+War for the Planet of the Apes,Andy Serkis; Woody Harrelson; Steve Zahn,Matt Reeves,Drama; Science Fiction; War,2017,140
+Captain America: Civil War,Chris Evans; Robert Downey Jr.; Scarlett Johansson,Anthony Russo,Adventure; Action; Science Fiction,2016,147
+Pulp Fiction,John Travolta; Samuel L. Jackson; Uma Thurman,Quentin Tarantino,Thriller; Crime,1994,154
+Pirates of the Caribbean: Dead Men Tell No Tales,Johnny Depp; Javier Bardem; Geoffrey Rush,Joachim Rønning,Adventure; Action; Fantasy; Comedy,2017,129
+The Dark Knight,Christian Bale; Michael Caine; Heath Ledger,Christopher Nolan,Drama; Action; Crime; Thriller,2008,152
+Blade Runner,Harrison Ford; Rutger Hauer; Sean Young,Ridley Scott,Science Fiction; Drama; Thriller,1982,117
+The Avengers,Robert Downey Jr.; Chris Evans; Mark Ruffalo,Joss Whedon,Science Fiction; Action; Adventure,2012,143
+Captain Underpants: The First Epic Movie,Kevin Hart; Ed Helms; Thomas Middleditch,David Soren,Action; Animation; Comedy; Family,2017,89
+The Circle,Emma Watson; Tom Hanks; John Boyega,James Ponsoldt,Drama; Thriller; Science Fiction,2017,110
+The Bad Batch,Suki Waterhouse; Jason Momoa; Jayda Fink,Ana Lily Amirpour,Thriller; Romance; Science Fiction,2017,119
+The Maze Runner,Dylan O'Brien; Ki Hong Lee; Kaya Scodelario,Wes Ball,Action; Mystery; Science Fiction; Thriller,2014,113
+Dawn of the Planet of the Apes,Andy Serkis; Jason Clarke; Gary Oldman,Matt Reeves,Science Fiction; Action; Drama; Thriller,2014,130
+Alien: Covenant,Michael Fassbender; Katherine Waterston; Billy Crudup,Ridley Scott,Horror; Science Fiction; Thriller,2017,122
+Ghost in the Shell,Scarlett Johansson; Michael Pitt; Pilou Asbæk,Rupert Sanders,Action; Science Fiction; Thriller,2017,107
+Boyka: Undisputed IV,Scott Adkins; Teodora Duhovnikova; Alon Aboutboul,Todor Chapkanov,Thriller; Action; Crime,2016,87
+Whiplash,Miles Teller; J.K. Simmons; Melissa Benoist,Damien Chazelle,Drama,2014,105
+Fight Club,Edward Norton; Brad Pitt; Meat Loaf,David Fincher,Drama,1999,139
+What Happened to Monday,Noomi Rapace; Marwan Kenzari; Christian Rubeck,Tommy Wirkola,Science Fiction; Thriller,2017,123
+Wish Upon,Joey King; Ryan Phillippe; Sherilyn Fenn,John R. Leonetti,Fantasy; Horror; Thriller,2017,90
+Thor: Ragnarok,Chris Hemsworth; Tom Hiddleston; Cate Blanchett,Taika Waititi,Action; Adventure; Fantasy; Science Fiction,2017,0
+Logan,Hugh Jackman; Patrick Stewart; Dafne Keen,James Mangold,Action; Drama; Science Fiction,2017,137
+Guardians of the Galaxy,Chris Pratt; Zoe Saldana; Dave Bautista,James Gunn,Action; Science Fiction; Adventure,2014,121
+47 Meters Down,Claire Holt; Mandy Moore; Chris Johnson,Johannes Roberts,Drama; Thriller; Horror; Adventure,2017,89
+The Shawshank Redemption,Tim Robbins; Morgan Freeman; Bob Gunton,Frank Darabont,Drama; Crime,1994,142
+The Last King,Kristofer Hivju; Jakob Oftebro; Pål Sverre Hagen,Nils Gaup,Action; Adventure; Drama,2016,99
+The Dark Tower,Idris Elba; Matthew McConaughey; Tom Taylor,Nikolaj Arcel,Action; Western; Science Fiction; Fantasy; Horror,2017,95
+John Wick: Chapter 2,Keanu Reeves; Common; Laurence Fishburne,Chad Stahelski,Thriller; Action; Crime,2017,122
+The Fate of the Furious,Vin Diesel; Jason Statham; Dwayne Johnson,F. Gary Gray,Action; Crime; Thriller,2017,136
+Forrest Gump,Tom Hanks; Robin Wright; Gary Sinise,Robert Zemeckis,Comedy; Drama; Romance,1994,142
+Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp; Geoffrey Rush; Orlando Bloom,Gore Verbinski,Adventure; Fantasy; Action,2003,143
+Security,Antonio Banderas; Ben Kingsley; Liam McIntyre,Alain Desrochers,Action,2017,87
+The Legend of Tarzan,Alexander Skarsgård; Margot Robbie; Christoph Waltz,David Yates,Action; Adventure,2016,109
+King Arthur: Legend of the Sword,Charlie Hunnam; Astrid Bergès-Frisbey; Jude Law,Guy Ritchie,Action; Drama; Fantasy,2017,126
+Doctor Strange,Benedict Cumberbatch; Chiwetel Ejiofor; Rachel McAdams,Scott Derrickson,Action; Adventure; Fantasy; Science Fiction,2016,115
+Suicide Squad,Will Smith; Margot Robbie; Joel Kinnaman,David Ayer,Action; Adventure; Crime; Fantasy; Science Fiction,2016,123
+Star Wars,Mark Hamill; Harrison Ford; Carrie Fisher,George Lucas,Adventure; Action; Science Fiction,1977,121
+Ted 2,Mark Wahlberg; Seth MacFarlane; Amanda Seyfried,Seth MacFarlane,Comedy,2015,115
+Schindler's List,Liam Neeson; Ben Kingsley; Ralph Fiennes,Steven Spielberg,Drama; History; War,1993,195
+Rise of the Planet of the Apes,James Franco; Freida Pinto; John Lithgow,Rupert Wyatt,Thriller; Action; Drama; Science Fiction,2011,105
+Maze Runner: The Scorch Trials,Dylan O'Brien; Kaya Scodelario; Thomas Brodie-Sangster,Wes Ball,Action,2015,132
+The Godfather,Marlon Brando; Al Pacino; James Caan,Francis Ford Coppola,Drama; Crime,1972,175
+Fantastic Beasts and Where to Find Them,Eddie Redmayne; Colin Farrell; Katherine Waterston,David Yates,Adventure; Family; Fantasy,2016,133
+Spirited Away,Rumi Hiiragi; Miyu Irino; Mari Natsuki,Hayao Miyazaki,Fantasy; Adventure; Animation; Family,2001,125
+Wind River,Jeremy Renner; Elizabeth Olsen; Gil Birmingham,Taylor Sheridan,Action; Crime; Mystery; Thriller,2017,111
+Now You See Me 2,Jesse Eisenberg; Woody Harrelson; Mark Ruffalo,Jon M. Chu,Action; Adventure; Comedy; Crime; Mystery; Thriller,2016,129
+Life Is Beautiful,Nicoletta Braschi; Roberto Benigni; Giorgio Cantarini,Roberto Benigni,Comedy; Drama,1997,116
+Transformers: The Last Knight,Mark Wahlberg; Josh Duhamel; Laura Haddock,Michael Bay,Action; Science Fiction; Thriller; Adventure,2017,149
+Before I Fall,Zoey Deutch; Halston Sage; Logan Miller,Ry Russo-Young,Mystery; Drama; Thriller,2017,98
+Harry Potter and the Philosopher's Stone,Daniel Radcliffe; Rupert Grint; Emma Watson,Chris Columbus,Adventure; Fantasy; Family,2001,152
+Girls Trip,Regina Hall; Queen Latifah; Jada Pinkett Smith,Malcolm D. Lee,Comedy,2017,122
+2:22,Michiel Huisman; Teresa Palmer; Sam Reid,Paul Currie,Drama; Thriller,2017,99
+Avengers: Age of Ultron,Robert Downey Jr.; Chris Hemsworth; Mark Ruffalo,Joss Whedon,Action; Adventure; Science Fiction,2015,141
+Get Out,Daniel Kaluuya; Allison Williams; Bradley Whitford,Jordan Peele,Mystery; Thriller; Horror,2017,104
+Psycho,Anthony Perkins; Vera Miles; John Gavin,Alfred Hitchcock,Drama; Horror; Thriller,1960,109
+Fury,Brad Pitt; Shia LaBeouf; Logan Lerman,David Ayer,War; Drama; Action,2014,135
+Despicable Me 3,Steve Carell; Kristen Wiig; Trey Parker,Kyle Balda,Action; Animation; Adventure; Family; Comedy,2017,96
+The Godfather: Part II,Al Pacino; Robert Duvall; Diane Keaton,Francis Ford Coppola,Drama; Crime,1974,200
+Rogue One: A Star Wars Story,Felicity Jones; Diego Luna; Ben Mendelsohn,Gareth Edwards,Action; Adventure; Science Fiction,2016,133
+Lucy,Scarlett Johansson; Morgan Freeman; Choi Min-sik,Luc Besson,Action; Science Fiction,2014,89
+Life,Jake Gyllenhaal; Rebecca Ferguson; Ryan Reynolds,Daniel Espinosa,Horror; Science Fiction; Thriller,2017,103
+Miss Peregrine's Home for Peculiar Children,Eva Green; Asa Butterfield; Samuel L. Jackson,Tim Burton,Drama; Fantasy; Adventure,2016,127
+The Beguiled,Colin Farrell; Nicole Kidman; Kirsten Dunst,Sofia Coppola,Drama; Western,2017,93
+Operation Mekong,Zhang Hanyu; Eddie Peng; Feng Wenjuan,Dante Lam,Action; Adventure,2016,140
+Baywatch,Dwayne Johnson; Zac Efron; Alexandra Daddario,Seth Gordon,Action; Comedy,2017,116
+One Flew Over the Cuckoo's Nest,Jack Nicholson; Louise Fletcher; Danny DeVito,Miloš Forman,Drama,1975,133
+Thor: The Dark World,Chris Hemsworth; Natalie Portman; Tom Hiddleston,Alan Taylor,Action; Adventure; Fantasy,2013,112
+A Silent Voice,Miyu Irino; Saori Hayami; Aoi Yuki,Naoko Yamada,Animation; Drama,2016,130
+Your Name.,Ryunosuke Kamiki; Mone Kamishiraishi; Masami Nagasawa,Makoto Shinkai,Romance; Animation; Drama,2016,106
+Dilwale Dulhania Le Jayenge,Shah Rukh Khan; Kajol; Amrish Puri,Aditya Chopra,Comedy; Drama; Romance,1995,190
+Me Before You,Emilia Clarke; Sam Claflin; Janet McTeer,Thea Sharrock,Drama; Romance,2016,110
+The Mother of Tears,Asia Argento; Cristian Solimeno; Adam James,Dario Argento,Horror,2007,102
+The Twilight Saga: Eclipse,Kristen Stewart; Robert Pattinson; Taylor Lautner,David Slade,Adventure; Fantasy; Drama; Romance,2010,124
+Pacific Rim,Idris Elba; Charlie Hunnam; Charlie Day,Guillermo del Toro,Action; Science Fiction; Adventure,2013,131
+The Mummy,Tom Cruise; Russell Crowe; Annabelle Wallis,Alex Kurtzman,Thriller; Action; Adventure,2017,110
+The Emoji Movie,T.J. Miller; James Corden; Anna Faris,Anthony Leondis,Comedy; Family; Animation,2017,86
+Rescue Under Fire,Ariadna Gil; Roberto Álamo; Antonio Garrido,Adolfo Martínez Pérez,War,2017,93
+Creed,Michael B. Jordan; Sylvester Stallone; Graham McTavish,Ryan Coogler,Drama,2015,133
+The Matrix,Keanu Reeves; Laurence Fishburne; Carrie-Anne Moss,Lana Wachowski,Action; Science Fiction,1999,136
+Fifty Shades of Grey,Dakota Johnson; Jamie Dornan; Jennifer Ehle,Sam Taylor-Johnson,Drama; Romance; Thriller,2015,125
+Jurassic World,Chris Pratt; Bryce Dallas Howard; Irrfan Khan,Colin Trevorrow,Action; Adventure; Science Fiction; Thriller,2015,124
+Interstellar,Matthew McConaughey; Jessica Chastain; Anne Hathaway,Christopher Nolan,Adventure; Drama; Science Fiction,2014,169
+Once Upon a Time in America,Robert De Niro; James Woods; Elizabeth McGovern,Sergio Leone,Drama; Crime,1984,229
+The Lord of the Rings: The Fellowship of the Ring,Elijah Wood; Ian McKellen; Cate Blanchett,Peter Jackson,Adventure; Fantasy; Action,2001,178
+Edge of Tomorrow,Tom Cruise; Emily Blunt; Brendan Gleeson,Doug Liman,Action; Science Fiction,2014,113
+The Autopsy of Jane Doe,Emile Hirsch; Brian Cox; Ophelia Lovibond,André Øvredal,Horror; Mystery,2016,86
+The Hobbit: The Battle of the Five Armies,Martin Freeman; Ian McKellen; Richard Armitage,Peter Jackson,Action; Adventure; Fantasy,2014,144
+Star Wars: The Force Awakens,Daisy Ridley; John Boyega; Adam Driver,J.J. Abrams,Action; Adventure; Science Fiction; Fantasy,2015,136
+The Imitation Game,Benedict Cumberbatch; Keira Knightley; Matthew Goode,Morten Tyldum,History; Drama; Thriller; War,2014,113
+Batman v Superman: Dawn of Justice,Ben Affleck; Henry Cavill; Gal Gadot,Zack Snyder,Action; Adventure; Fantasy,2016,151
+Pirates of the Caribbean: At World's End,Johnny Depp; Orlando Bloom; Keira Knightley,Gore Verbinski,Adventure; Fantasy; Action,2007,169
+Collide,Nicholas Hoult; Felicity Jones; Anthony Hopkins,Eran Creevy,Thriller; Action,2016,98
+Twilight,Kristen Stewart; Robert Pattinson; Billy Burke,Catherine Hardwicke,Adventure; Fantasy; Drama; Romance,2008,122
+The Amazing Spider-Man,Andrew Garfield; Emma Stone; Rhys Ifans,Marc Webb,Action; Adventure; Fantasy,2012,136
+Dunkirk,Fionn Whitehead; Tom Glynn-Carney; Jack Lowden,Christopher Nolan,Action; Drama; History; Thriller; War,2017,107
+Arrival,Amy Adams; Jeremy Renner; Forest Whitaker,Denis Villeneuve,Thriller; Drama; Science Fiction; Mystery,2016,113
+12 Years a Slave,Chiwetel Ejiofor; Michael Fassbender; Lupita Nyong'o,Steve McQueen,Drama; History,2013,134
+Chappie,Sharlto Copley; Dev Patel; Ninja,Neill Blomkamp,Crime; Action; Science Fiction,2015,120
+Terminator Genisys,Arnold Schwarzenegger; Jason Clarke; Emilia Clarke,Alan Taylor,Science Fiction; Action; Thriller; Adventure,2015,126
+The House,Amy Poehler; Will Ferrell; Allison Tolman,Andrew J. Cohen,Comedy,2017,88
+The Twilight Saga: New Moon,Kristen Stewart; Robert Pattinson; Taylor Lautner,Chris Weitz,Adventure; Fantasy; Drama; Romance,2009,130
+Harry Potter and the Chamber of Secrets,Daniel Radcliffe; Rupert Grint; Emma Watson,Chris Columbus,Adventure; Fantasy; Family,2002,161
+Pirates of the Caribbean: Dead Man's Chest,Johnny Depp; Orlando Bloom; Keira Knightley,Gore Verbinski,Adventure; Fantasy; Action,2006,151
+Kong: Skull Island,Tom Hiddleston; Samuel L. Jackson; Brie Larson,Jordan Vogt-Roberts,Action; Adventure; Fantasy,2017,118
+The Lord of the Rings: The Two Towers,Elijah Wood; Ian McKellen; Viggo Mortensen,Peter Jackson,Adventure; Fantasy; Action,2002,179
+Spider-Man,Tobey Maguire; Willem Dafoe; Kirsten Dunst,Sam Raimi,Fantasy; Action,2002,121
+Mad Max: Fury Road,Tom Hardy; Charlize Theron; Nicholas Hoult,George Miller,Action; Adventure; Science Fiction; Thriller,2015,120
+The Lord of the Rings: The Return of the King,Elijah Wood; Ian McKellen; Viggo Mortensen,Peter Jackson,Adventure; Fantasy; Action,2003,201
+Thor,Chris Hemsworth; Natalie Portman; Tom Hiddleston,Kenneth Branagh,Adventure; Fantasy; Action,2011,115
+Fifty Shades Darker,Dakota Johnson; Jamie Dornan; Eric Johnson,James Foley,Drama; Romance,2017,118
+Inception,Leonardo DiCaprio; Joseph Gordon-Levitt; Ellen Page,Christopher Nolan,Action; Thriller; Science Fiction; Mystery; Adventure,2010,148
+Split,James McAvoy; Anya Taylor-Joy; Betty Buckley,M. Night Shyamalan,Horror; Thriller,2016,117
+X-Men: Apocalypse,James McAvoy; Michael Fassbender; Jennifer Lawrence,Bryan Singer,Science Fiction,2016,144
+Batman Begins,Christian Bale; Michael Caine; Liam Neeson,Christopher Nolan,Action; Crime; Drama,2005,140
+Harry Potter and the Prisoner of Azkaban,Daniel Radcliffe; Rupert Grint; Emma Watson,Alfonso Cuarón,Adventure; Fantasy; Family,2004,141
+The Saint,Adam Rayner; Eliza Dushku; Ian Ogilvy,Ernie Barbarash,Action; Adventure; Crime,2017,92
+Kingsman: The Secret Service,Colin Firth; Samuel L. Jackson; Mark Strong,Matthew Vaughn,Crime; Comedy; Action; Adventure,2015,130
+Diary of a Wimpy Kid: The Long Haul,Jason Ian Drucker; Owen Asztalos; Charlie Wright,David Bowers,Comedy; Family,2017,91
+Pirates of the Caribbean: On Stranger Tides,Johnny Depp; Penélope Cruz; Ian McShane,Rob Marshall,Adventure; Action; Fantasy,2011,136
+Insurgent,Shailene Woodley; Theo James; Kate Winslet,Robert Schwentke,Adventure; Science Fiction; Thriller,2015,119
+The Purge: Anarchy,Frank Grillo; Carmen Ejogo; Zach Gilford,James DeMonaco,Horror; Thriller,2014,104
+Spider-Man 3,Tobey Maguire; Kirsten Dunst; James Franco,Sam Raimi,Fantasy; Action; Adventure,2007,139
+Assassin's Creed,Michael Fassbender; Marion Cotillard; Jeremy Irons,Justin Kurzel,Action; Adventure; Science Fiction,2016,115
+Sex Tape,Cameron Diaz; Jason Segel; Rob Corddry,Jake Kasdan,Comedy,2014,97
+Furious 7,Vin Diesel; Paul Walker; Dwayne Johnson,James Wan,Action,2015,137
+Dark Skies,Keri Russell; Josh Hamilton; Dakota Goyo,Scott Stewart,Science Fiction; Thriller; Horror,2013,97
+Titanic,Kate Winslet; Leonardo DiCaprio; Frances Fisher,James Cameron,Drama; Romance; Thriller,1997,194
+Ant-Man,Paul Rudd; Michael Douglas; Evangeline Lilly,Peyton Reed,Science Fiction; Action; Adventure,2015,117
+Pan's Labyrinth,Ivana Baquero; Maribel Verdú; Sergi López,Guillermo del Toro,Fantasy; Drama; War,2006,118
+The Hunger Games: Mockingjay - Part 2,Jennifer Lawrence; Josh Hutcherson; Liam Hemsworth,Francis Lawrence,Action; Adventure; Science Fiction,2015,137
+"Monsters, Inc.",John Goodman; Billy Crystal; Mary Gibbs,Pete Docter,Animation; Comedy; Family,2001,92
+The Amazing Spider-Man 2,Andrew Garfield; Emma Stone; Jamie Foxx,Marc Webb,Action; Adventure; Fantasy,2014,142
+World War Z,Brad Pitt; Mireille Enos; Abigail Hargrove,Marc Forster,Action; Drama; Horror; Science Fiction; Thriller,2013,116
+The Twilight Saga: Breaking Dawn - Part 2,Kristen Stewart; Robert Pattinson; Taylor Lautner,Bill Condon,Adventure; Fantasy; Drama; Romance,2012,115
+X-Men: Days of Future Past,Hugh Jackman; James McAvoy; Michael Fassbender,Bryan Singer,Action; Adventure; Fantasy; Science Fiction,2014,131
+Zootopia,Ginnifer Goodwin; Jason Bateman; Shakira,Byron Howard,Animation; Adventure; Family; Comedy,2016,108
+The Twilight Saga: Breaking Dawn - Part 1,Kristen Stewart; Robert Pattinson; Taylor Lautner,Bill Condon,Adventure; Fantasy; Romance,2011,117
+Justice League,Ben Affleck; Henry Cavill; Gal Gadot,Zack Snyder,Action; Adventure; Fantasy; Science Fiction,2017,0
+Don't Breathe,Jane Levy; Dylan Minnette; Daniel Zovatto,Fede Alvarez,Crime; Horror; Thriller,2016,88
+Back to the Future,Michael J. Fox; Christopher Lloyd; Lea Thompson,Robert Zemeckis,Adventure; Comedy; Science Fiction; Family,1985,116
+The Martian,Matt Damon; Jessica Chastain; Kristen Wiig,Ridley Scott,Drama; Adventure; Science Fiction,2015,141
+Finding Nemo,Albert Brooks; Ellen DeGeneres; Alexander Gould,Andrew Stanton,Animation; Family,2003,100
+Colossal,Anne Hathaway; Jason Sudeikis; Tim Blake Nelson,Nacho Vigalondo,Action; Comedy; Drama; Fantasy; Science Fiction,2017,110
+The Hunger Games: Catching Fire,Jennifer Lawrence; Josh Hutcherson; Liam Hemsworth,Francis Lawrence,Adventure; Action; Science Fiction,2013,146
+Self/less,Ryan Reynolds; Ben Kingsley; Natalie Martinez,Tarsem Singh,Science Fiction; Mystery; Thriller,2015,116
+Kill Bill: Vol. 1,Uma Thurman; Lucy Liu; Vivica A. Fox,Quentin Tarantino,Action; Crime,2003,111
+The Hangover Part III,Bradley Cooper; Ed Helms; Zach Galifianakis,Todd Phillips,Comedy,2013,100
+Harry Potter and the Deathly Hallows: Part 2,Daniel Radcliffe; Rupert Grint; Emma Watson,David Yates,Family; Fantasy; Adventure,2011,130
+Spectre,Daniel Craig; Christoph Waltz; Léa Seydoux,Sam Mendes,Action; Adventure; Crime,2015,148
+Sleight,Jacob Latimore; Seychelle Gabriel; Sasheer Zamata,J.D. Dillard,Drama; Thriller; Action; Science Fiction,2017,89
+Black Mirror: White Christmas,Jon Hamm; Rafe Spall; Oona Chaplin,Carl Tibbetts,Drama; Horror; Mystery; Science Fiction; Thriller; TV Movie,2014,74
+Harry Potter and the Goblet of Fire,Daniel Radcliffe; Rupert Grint; Emma Watson,Mike Newell,Adventure; Fantasy; Family,2005,157
+Despicable Me 2,Steve Carell; Kristen Wiig; Benjamin Bratt,Pierre Coffin,Animation; Comedy; Family,2013,98
+No Good Deed,Idris Elba; Taraji P. Henson; Leslie Bibb,Sam Miller,Crime; Thriller,2014,83
+The Book of Henry,Naomi Watts; Jaeden Lieberher; Jacob Tremblay,Colin Trevorrow,Thriller; Drama; Crime,2017,105
+Rings,Matilda Anna Ingrid Lutz; Alex Roe; Johnny Galecki,F. Javier Gutiérrez,Horror,2017,102
+Child's Play 3,Justin Whalin; Perrey Reeves; Jeremy Sylvers,Jack Bender,Thriller; Horror; Action,1991,90
+A Monster Calls,Lewis MacDougall; Sigourney Weaver; Felicity Jones,Juan Antonio Bayona,Drama; Fantasy,2016,108
+A Ghost Story,Casey Affleck; Rooney Mara; Will Oldham,David Lowery,Drama; Fantasy; Romance,2017,92
+Rough Night,Scarlett Johansson; Jillian Bell; Kate McKinnon,Lucia Aniello,Drama; Comedy,2017,101
+The Fifth Element,Bruce Willis; Gary Oldman; Ian Holm,Luc Besson,Adventure; Fantasy; Action; Thriller; Science Fiction,1997,126
+Frozen,Kristen Bell; Idina Menzel; Jonathan Groff,Chris Buck,Animation; Adventure; Family,2013,102
+Overdrive,Scott Eastwood; Freddie Thorp; Ana de Armas,Antonio Negret,Thriller; Action,2017,93
+Inside Out,Amy Poehler; Phyllis Smith; Richard Kind,Pete Docter,Drama; Comedy; Animation; Family,2015,94
+The Mummy,Brendan Fraser; Rachel Weisz; John Hannah,Stephen Sommers,Adventure; Action; Fantasy,1999,124
+Grown Ups,Adam Sandler; Salma Hayek; Maria Bello,Dennis Dugan,Comedy,2010,102
+A Dog's Will,Matheus Nachtergaele; Selton Mello; Lima Duarte,Guel Arraes,Adventure; Comedy; Drama,2000,104
+The Hangover,Bradley Cooper; Ed Helms; Zach Galifianakis,Todd Phillips,Comedy,2009,100
+Iron Man 3,Robert Downey Jr.; Gwyneth Paltrow; Don Cheadle,Shane Black,Action; Adventure; Science Fiction,2013,130
+DragonHeart,Dennis Quaid; David Thewlis; Pete Postlethwaite,Rob Cohen,Fantasy,1996,103
+Saw,Cary Elwes; Danny Glover; Monica Potter,James Wan,Horror; Mystery; Crime,2004,103
+The Revenant,Leonardo DiCaprio; Tom Hardy; Will Poulter,Alejandro González Iñárritu,Western; Drama; Adventure; Thriller,2015,156
+Beauty and the Beast,Paige O'Hara; Robby Benson; Richard White,Gary Trousdale,Romance; Family; Animation; Fantasy; Music,1991,84
+The Big Sick,Kumail Nanjiani; Zoe Kazan; Holly Hunter,Michael Showalter,Comedy; Drama; Romance,2017,120
+Alien,Tom Skerritt; Sigourney Weaver; Veronica Cartwright,Ridley Scott,Horror; Action; Thriller; Science Fiction,1979,117
+Harry Potter and the Deathly Hallows: Part 1,Daniel Radcliffe; Emma Watson; Rupert Grint,David Yates,Adventure; Fantasy; Family,2010,146
+The Hobbit: An Unexpected Journey,Ian McKellen; Martin Freeman; Richard Armitage,Peter Jackson,Adventure; Fantasy; Action,2012,169
+Power Rangers,Dacre Montgomery; Naomi Scott; RJ Cyler,Dean Israelite,Action; Adventure; Science Fiction,2017,124
+Annabelle,Annabelle Wallis; Ward Horton; Tony Amendola,John R. Leonetti,Horror,2014,99
+The Purge,Lena Headey; Ethan Hawke; Max Burkholder,James DeMonaco,Science Fiction; Horror; Thriller,2013,86
+Gladiator,Russell Crowe; Joaquin Phoenix; Connie Nielsen,Ridley Scott,Action; Drama; Adventure,2000,155
+Casino Royale,Daniel Craig; Eva Green; Mads Mikkelsen,Martin Campbell,Adventure; Action; Thriller,2006,144
+The Jungle Book,Bruce Reitherman; Phil Harris; Sebastian Cabot,Wolfgang Reitherman,Family; Animation; Adventure,1967,78
+Fist Fight,Charlie Day; Ice Cube; Tracy Morgan,Richie Keen,Comedy,2017,91
+Train to Busan,Gong Yoo; Ma Dong-seok; Jung Yu-mi, Yeon Sang-Ho,Action; Horror; Thriller,2016,118
+Terminator 2: Judgment Day,Arnold Schwarzenegger; Linda Hamilton; Robert Patrick,James Cameron,Action; Thriller; Science Fiction,1991,137
+2001: A Space Odyssey,Keir Dullea; Gary Lockwood; William Sylvester,Stanley Kubrick,Science Fiction; Mystery; Adventure,1968,149
+Teenage Mutant Ninja Turtles,Megan Fox; Will Arnett; William Fichtner,Jonathan Liebesman,Science Fiction; Action; Adventure; Fantasy; Comedy,2014,101
+Tomorrowland,Britt Robertson; George Clooney; Raffey Cassidy,Brad Bird,Adventure; Family; Mystery; Science Fiction,2015,130
+Despicable Me,Steve Carell; Jason Segel; Russell Brand,Pierre Coffin,Animation; Family,2010,95
+The Incredibles,Craig T. Nelson; Holly Hunter; Samuel L. Jackson,Brad Bird,Action; Adventure; Animation; Family,2004,115
+Angels & Demons,Tom Hanks; Ewan McGregor; Ayelet Zurer,Ron Howard,Thriller; Mystery,2009,138
+Penguins of Madagascar,Tom McGrath; Chris Miller; Christopher Knights,Eric Darnell,Family; Animation; Adventure; Comedy,2014,92
+Ghostbusters,Bill Murray; Dan Aykroyd; Sigourney Weaver,Ivan Reitman,Comedy; Fantasy,1984,107
+Iron Man,Robert Downey Jr.; Terrence Howard; Jeff Bridges,Jon Favreau,Action; Science Fiction; Adventure,2008,126
+The Wizard of Oz,Judy Garland; Frank Morgan; Ray Bolger,Victor Fleming,Adventure; Family; Fantasy,1939,102
+Charlie and the Chocolate Factory,Johnny Depp; Freddie Highmore; David Kelly,Tim Burton,Adventure; Comedy; Family; Fantasy,2005,115
+Stonehearst Asylum,Kate Beckinsale; Jim Sturgess; David Thewlis,Brad Anderson,Thriller,2014,112
+Toy Story,Tom Hanks; Tim Allen; Don Rickles,John Lasseter,Animation; Comedy; Family,1995,81
+The Hangover Part II,Bradley Cooper; Ed Helms; Zach Galifianakis,Todd Phillips,Comedy,2011,102
+I.T.,Pierce Brosnan; Stefanie Scott; James Frecheville,John Moore,Crime; Drama; Thriller,2016,96
+The Lost City of Z,Charlie Hunnam; Robert Pattinson; Sienna Miller,James Gray,Action; Adventure; Drama; History,2016,140
+Aliens,Sigourney Weaver; Michael Biehn; James Remar,James Cameron,Horror; Action; Thriller; Science Fiction,1986,137
+Saving Private Ryan,Tom Hanks; Matt Damon; Vin Diesel,Steven Spielberg,Drama; History; War,1998,169
+Seven Pounds,Will Smith; Rosario Dawson; Sarah Jane Morris,Gabriele Muccino,Drama,2008,123
+The Lion King,Jonathan Taylor Thomas; Matthew Broderick; James Earl Jones,Roger Allers,Family; Animation; Drama,1994,89
+Divergent,Shailene Woodley; Theo James; Kate Winslet,Neil Burger,Adventure; Action; Science Fiction,2014,139
+Kill Bill: Vol. 2,Uma Thurman; David Carradine; Daryl Hannah,Quentin Tarantino,Action; Crime; Thriller,2004,136
+Enigma,Dougray Scott; Kate Winslet; Saffron Burrows,Michael Apted,Mystery; Drama; Thriller; Romance; War,2001,119
+I Spit on Your Grave III: Vengeance is Mine,Sarah Butler; Jennifer Landon; Doug McKeon,R.D. Braunstein,Horror; Thriller,2015,91
+Jupiter Ascending,Mila Kunis; Channing Tatum; Sean Bean,Lilly Wachowski,Science Fiction; Fantasy; Action; Adventure,2015,124
+Harry Potter and the Order of the Phoenix,Daniel Radcliffe; Rupert Grint; Emma Watson,David Yates,Adventure; Fantasy; Family; Mystery,2007,138
+Cast Away,Tom Hanks; Helen Hunt; Chris Noth,Robert Zemeckis,Adventure; Drama,2000,143
+Nightcrawler,Jake Gyllenhaal; Rene Russo; Riz Ahmed,Dan Gilroy,Crime; Drama; Thriller,2014,117
+TRON: Legacy,Garrett Hedlund; Jeff Bridges; Olivia Wilde,Joseph Kosinski,Adventure; Action; Science Fiction,2010,125
+Straight Outta Compton,O'Shea Jackson Jr.; Corey Hawkins; Jason Mitchell,F. Gary Gray,Drama; Music,2015,147
+Mulan,Ming-Na Wen; Lea Salonga; Eddie Murphy,Tony Bancroft,Animation; Family; Adventure,1998,88
+Pixels,Adam Sandler; Michelle Monaghan; Peter Dinklage,Chris Columbus,Action; Comedy; Science Fiction,2015,105
+The Key,Stefania Sandrelli; Franco Branciaroli; Frank Finlay,Tinto Brass,Romance; Drama,1983,110
+The Bourne Identity,Matt Damon; Franka Potente; Chris Cooper,Doug Liman,Action; Drama; Mystery; Thriller,2002,119
+Hacksaw Ridge,Andrew Garfield; Sam Worthington; Vince Vaughn,Mel Gibson,Drama; History; War,2016,140
+The Pursuit of Happyness,Will Smith; Jaden Smith; Thandie Newton,Gabriele Muccino,Drama,2006,117
+Horrible Bosses 2,Jason Bateman; Jason Sudeikis; Charlie Day,Sean Anders,Comedy,2014,108
+In a Heartbeat,,Beth David,Family; Animation; Romance; Comedy,2017,4
+Terminator 3: Rise of the Machines,Arnold Schwarzenegger; Nick Stahl; Claire Danes,Jonathan Mostow,Action; Thriller; Science Fiction,2003,109
+Braveheart,Mel Gibson; Catherine McCormack; Sophie Marceau,Mel Gibson,Action; Drama; History; War,1995,177
+American Beauty,Kevin Spacey; Annette Bening; Thora Birch,Sam Mendes,Drama,1999,122
+The Bar,Mario Casas; Blanca Suárez; Carmen Machi,Álex de la Iglesia,Horror; Thriller; Comedy,2017,0
+Amityville: The Awakening,Bella Thorne; Cameron Monaghan; Jennifer Morrison,Franck Khalfoun,Thriller; Horror,2017,85
+Scouts Guide to the Zombie Apocalypse,Tye Sheridan; Logan Miller; Joey Morgan,Christopher B. Landon,Comedy; Horror,2015,93
+Minority Report,Tom Cruise; Colin Farrell; Samantha Morton,Steven Spielberg,Action; Thriller; Science Fiction; Mystery,2002,145
+Star Trek Beyond,Chris Pine; Zachary Quinto; Karl Urban,Justin Lin,Action; Adventure; Science Fiction,2016,122
+The Hobbit: The Desolation of Smaug,Martin Freeman; Ian McKellen; Richard Armitage,Peter Jackson,Adventure; Fantasy,2013,161
+Underworld,Kate Beckinsale; Scott Speedman; Michael Sheen,Len Wiseman,Fantasy; Action; Thriller,2003,121
+Sin City: A Dame to Kill For,Mickey Rourke; Jessica Alba; Josh Brolin,Robert Rodriguez,Crime; Thriller,2014,102
+The Dark Knight Rises,Christian Bale; Michael Caine; Gary Oldman,Christopher Nolan,Action; Crime; Drama; Thriller,2012,165
+San Andreas,Dwayne Johnson; Alexandra Daddario; Carla Gugino,Brad Peyton,Action; Drama; Thriller,2015,114
+Ratatouille,Patton Oswalt; Ian Holm; Lou Romano,Jan Pinkava,Animation; Comedy; Family; Fantasy,2007,111
+It Comes at Night,Joel Edgerton; Christopher Abbott; Carmen Ejogo,Trey Edward Shults,Horror; Mystery; Thriller,2017,91
+Beautiful Creatures,Alden Ehrenreich; Alice Englert; Jeremy Irons,Richard LaGravenese,Fantasy; Drama; Romance,2013,124
+Leon: The Professional,Jean Reno; Natalie Portman; Gary Oldman,Luc Besson,Thriller; Crime; Drama,1994,110
+The Bourne Supremacy,Matt Damon; Franka Potente; Brian Cox,Paul Greengrass,Action; Drama; Thriller,2004,108
+S.W.A.T.: Under Siege,Adrianne Palicki; Michael Jai White; Ty Olsson,Tony Giglio,Action; Crime; Thriller,2017,89
+It Follows,Maika Monroe; Keir Gilchrist; Daniel Zovatto,David Robert Mitchell,Horror; Thriller,2015,100
+Amazing Grace,Ioan Gruffudd; Romola Garai; Benedict Cumberbatch,Michael Apted,Drama,2006,117
+The Hateful Eight,Samuel L. Jackson; Kurt Russell; Jennifer Jason Leigh,Quentin Tarantino,Crime; Drama; Mystery; Western,2015,167
+Skyfall,Daniel Craig; Judi Dench; Javier Bardem,Sam Mendes,Action; Adventure; Thriller,2012,143
+Passengers,Jennifer Lawrence; Chris Pratt; Michael Sheen,Morten Tyldum,Adventure; Drama; Romance; Science Fiction,2016,116
+Top Gun,Tom Cruise; Kelly McGillis; Val Kilmer,Tony Scott,Action; Romance; War,1986,110
+Kidnap,Halle Berry; Sage Correa; Chris McGinn,Luis Prieto,Drama; Thriller,2017,95
+V for Vendetta,Natalie Portman; Hugo Weaving; Stephen Rea,James McTeigue,Action; Thriller; Fantasy,2006,132
+Ice Age: Collision Course,Ray Romano; John Leguizamo; Denis Leary,Mike Thurmeier,Adventure; Animation; Family; Comedy,2016,100
+Black Butterfly,Jonathan Rhys Meyers; Antonio Banderas; Piper Perabo,Brian Goodman,Thriller,2017,93
+Sing,Matthew McConaughey; Reese Witherspoon; Seth MacFarlane,Garth Jennings,Animation; Comedy; Drama; Family; Music,2016,108
+The Hunger Games,Jennifer Lawrence; Josh Hutcherson; Liam Hemsworth,Gary Ross,Science Fiction; Adventure; Fantasy,2012,142
+Underworld: Blood Wars,Kate Beckinsale; Theo James; Lara Pulver,Anna Foerster,Action; Fantasy; Horror,2016,91
+Derailed,Jean-Claude Van Damme; Tomas Arana; Laura Harring,Bob Misiorowski,Action; Thriller,2002,89
+The Green Mile,Tom Hanks; Michael Clarke Duncan; David Morse,Frank Darabont,Fantasy; Drama; Crime,1999,189
+American Pastoral,Ewan McGregor; Jennifer Connelly; Dakota Fanning,Ewan McGregor,Drama,2016,108
+"Crouching Tiger, Hidden Dragon",Chow Yun-fat; Michelle Yeoh; Zhang Ziyi,Ang Lee,Adventure; Drama; Action; Romance,2000,120
+Live by Night,Ben Affleck; Elle Fanning; Brendan Gleeson,Ben Affleck,Crime; Drama,2016,129
+Dr. No,Sean Connery; Ursula Andress; Joseph Wiseman,Terence Young,Adventure; Action; Thriller,1962,110
+War of the Worlds,Tom Cruise; Dakota Fanning; Miranda Otto,Steven Spielberg,Adventure; Thriller; Science Fiction,2005,116
+Dead Poets Society,Robin Williams; Ethan Hawke; Robert Sean Leonard,Peter Weir,Drama,1989,129
+Raiders of the Lost Ark,Harrison Ford; Karen Allen; Paul Freeman,Steven Spielberg,Adventure; Action,1981,115
+The Woman in Red,Gene Wilder; Charles Grodin; Joseph Bologna,Gene Wilder,Comedy; Romance,1984,87
+Catch Me If You Can,Leonardo DiCaprio; Tom Hanks; Christopher Walken,Steven Spielberg,Drama; Crime,2002,141
+Child's Play,Catherine Hicks; Chris Sarandon; Alex Vincent,Tom Holland,Horror; Thriller,1988,87
+Equals,Nicholas Hoult; Kristen Stewart; Guy Pearce,Drake Doremus,Drama; Romance; Science Fiction,2015,101
+Cinderella,Lily James; Cate Blanchett; Richard Madden,Kenneth Branagh,Romance; Fantasy; Family; Drama,2015,105
+Django Unchained,Jamie Foxx; Christoph Waltz; Leonardo DiCaprio,Quentin Tarantino,Drama; Western,2012,165
+King Kong,Naomi Watts; Jack Black; Adrien Brody,Peter Jackson,Adventure; Drama; Action,2005,187
+Jaws,Roy Scheider; Robert Shaw; Richard Dreyfuss,Steven Spielberg,Horror; Thriller; Adventure,1975,124
+La La Land,Ryan Gosling; Emma Stone; John Legend,Damien Chazelle,Comedy; Drama; Music; Romance,2016,128
+Factory Girl,Sienna Miller; Guy Pearce; Hayden Christensen,George Hickenlooper,Drama,2006,90
+Non-Stop,Liam Neeson; Julianne Moore; Scoot McNairy,Jaume Collet-Serra,Action; Thriller; Mystery,2014,106
+Ted,Mark Wahlberg; Mila Kunis; Seth MacFarlane,Seth MacFarlane,Comedy; Fantasy,2012,106
+Beauty and the Beast,Vincent Cassel; Léa Seydoux; André Dussollier,Christophe Gans,Fantasy; Romance,2014,112
+The Shining,Jack Nicholson; Shelley Duvall; Danny Lloyd,Stanley Kubrick,Horror; Thriller,1980,144
+Hercules,Dwayne Johnson; Ian McShane; John Hurt,Brett Ratner,Action; Adventure,2014,99
+The Last Samurai,Tom Cruise; Ken Watanabe; William Atherton,Edward Zwick,Drama; Action; War; History,2003,154
+Iron Sky,Julia Dietze; Christopher Kirby; Götz Otto,Timo Vuorensola,Action; Comedy; Science Fiction,2012,93
+Night at the Museum: Secret of the Tomb,Ben Stiller; Rami Malek; Rebel Wilson,Shawn Levy,Adventure; Comedy; Fantasy; Family,2014,97
+Super 8,Joel Courtney; Elle Fanning; Riley Griffiths,J.J. Abrams,Thriller; Science Fiction; Mystery,2011,112
+The Emerald Forest,Powers Boothe; Charley Boorman; Meg Foster,John Boorman,Action; Adventure; Drama,1985,114
+Sicario,Emily Blunt; Benicio del Toro; Josh Brolin,Denis Villeneuve,Action; Crime; Drama; Mystery; Thriller,2015,121
+The Empire Strikes Back,Mark Hamill; Harrison Ford; Carrie Fisher,Irvin Kershner,Adventure; Action; Science Fiction,1980,124
+Maleficent,Angelina Jolie; Elle Fanning; Sharlto Copley,Robert Stromberg,Fantasy; Adventure; Action; Family; Romance,2014,97
+No manches Frida,Omar Chaparro; Martha Higareda; Adal Ramones,Nacho G. Velilla,Comedy,2016,0
+The Runaways,Dakota Fanning; Kristen Stewart; Michael Shannon,Floria Sigismondi,Drama; Music,2010,106
+Fantastic Four,Ioan Gruffudd; Jessica Alba; Chris Evans,Tim Story,Action; Adventure; Fantasy; Science Fiction,2005,106
+E.T. the Extra-Terrestrial,Henry Thomas; Drew Barrymore; Robert MacNaughton,Steven Spielberg,Science Fiction; Adventure; Family; Fantasy,1982,115
+Trainspotting,Ewan McGregor; Ewen Bremner; Jonny Lee Miller,Danny Boyle,Drama; Crime,1996,93
+Up,Ed Asner; Christopher Plummer; Jordan Nagai,Pete Docter,Animation; Comedy; Family; Adventure,2009,96
+Captain America: The First Avenger,Chris Evans; Hugo Weaving; Tommy Lee Jones,Joe Johnston,Action; Adventure; Science Fiction,2011,124
+Bandidas,Penélope Cruz; Salma Hayek; Dwight Yoakam,Joachim Rønning,Action; Comedy; Western; Crime,2006,93
+The Terminator,Arnold Schwarzenegger; Michael Biehn; Linda Hamilton,James Cameron,Action; Thriller; Science Fiction,1984,108
+Real Steel,Hugh Jackman; Dakota Goyo; Evangeline Lilly,Shawn Levy,Action; Science Fiction; Drama,2011,127
+Mr. Holmes,Ian McKellen; Milo Parker; Laura Linney,Bill Condon,Drama; Mystery,2015,103
+Dawn of the Dead,David Emge; Ken Foree; Scott H. Reiniger,George A. Romero,Horror,1978,127
+Vice,Ambyr Childers; Thomas Jane; Bryan Greenberg,Brian A Miller,Thriller; Science Fiction; Action; Adventure,2015,96
+American Sniper,Bradley Cooper; Sienna Miller; Kyle Gallner,Clint Eastwood,War; Action,2014,133
+The Bye Bye Man,Douglas Smith; Lucien Laviscount; Cressida Bonas,Stacy Title,Horror; Thriller,2017,96
+The Adventures of Tintin,Jamie Bell; Andy Serkis; Daniel Craig,Steven Spielberg,Adventure; Animation; Mystery,2011,107
+Cars 3,Owen Wilson; Cristela Alonzo; Chris Cooper,Brian Fee,Family; Comedy; Animation; Adventure,2017,109
+xXx: State of the Union,Ice Cube; Samuel L. Jackson; Willem Dafoe,Lee Tamahori,Action; Adventure; Crime; Drama; Mystery; Thriller,2005,101
+Jason Bourne,Matt Damon; Alicia Vikander; Tommy Lee Jones,Paul Greengrass,Action; Thriller,2016,123
+The Incredible Hulk,Edward Norton; Liv Tyler; Tim Roth,Louis Leterrier,Science Fiction; Action; Adventure,2008,114
+Batman,Jack Nicholson; Michael Keaton; Kim Basinger,Tim Burton,Fantasy; Action,1989,126
+Zodiac,Jake Gyllenhaal; Robert Downey Jr.; Mark Ruffalo,David Fincher,Crime; Drama; Mystery; Thriller,2007,157
+Harry Potter and the Half-Blood Prince,Daniel Radcliffe; Rupert Grint; Emma Watson,David Yates,Adventure; Fantasy; Family,2009,153
+Iron Man 2,Robert Downey Jr.; Gwyneth Paltrow; Don Cheadle,Jon Favreau,Adventure; Action; Science Fiction,2010,124
+Mission: Impossible II,Tom Cruise; Dougray Scott; Thandie Newton,John Woo,Adventure; Action; Thriller,2000,123
+The Hills Have Eyes,Aaron Stanford; Kathleen Quinlan; Vinessa Shaw,Alexandre Aja,Horror; Thriller,2006,107
+Undisputed II: Last Man Standing,Michael Jai White; Scott Adkins; Ben Cross,Isaac Florentine,Action; Crime; Thriller,2006,93
+High-Rise,Tom Hiddleston; Sienna Miller; Jeremy Irons,Ben Wheatley,Drama,2015,119
+National Treasure,Nicolas Cage; Diane Kruger; Justin Bartha,Jon Turteltaub,Adventure; Action; Thriller; Mystery,2004,131
+The Perfect Storm,George Clooney; Mark Wahlberg; Diane Lane,Wolfgang Petersen,Drama,2000,130
+Nocturnal Animals,Amy Adams; Jake Gyllenhaal; Michael Shannon,Tom Ford,Drama; Thriller,2016,116
+Cars,Owen Wilson; Paul Newman; Bonnie Hunt,John Lasseter,Animation; Adventure; Comedy; Family,2006,117
+Blade: Trinity,Wesley Snipes; Kris Kristofferson; Dominic Purcell,David S. Goyer,Science Fiction; Action; Horror; Thriller; Adventure; Fantasy,2004,123
+9 Songs,Kieran O'Brien; Margo Stilley; Courtney Taylor-Taylor,Michael Winterbottom,Drama; Music; Romance,2004,66
+Sister Act,Whoopi Goldberg; Maggie Smith; Kathy Najimy,Emile Ardolino,Music; Comedy,1992,100
+Die Hard 2,Bruce Willis; Bonnie Bedelia; William Atherton,Renny Harlin,Action; Thriller,1990,124
+The BFG,Ruby Barnhill; Mark Rylance; Rebecca Hall,Steven Spielberg,Adventure; Family; Fantasy,2016,120
+Apollo 13,Tom Hanks; Bill Paxton; Kevin Bacon,Ron Howard,Drama,1995,140
+Snow White and the Huntsman,Kristen Stewart; Charlize Theron; Chris Hemsworth,Rupert Sanders,Adventure; Fantasy; Drama,2012,127
+Captain America: The Winter Soldier,Chris Evans; Samuel L. Jackson; Scarlett Johansson,Anthony Russo,Action; Adventure; Science Fiction,2014,136
+Once Upon a Time in Venice,Bruce Willis; Jason Momoa; John Goodman,Mark Cullen,Action; Comedy; Thriller,2017,94
+Sherlock Holmes: A Game of Shadows,Robert Downey Jr.; Jude Law; Jared Harris,Guy Ritchie,Adventure; Action; Crime; Mystery,2011,129
+The Scorpion King: Rise of a Warrior,Michael Copon; Randy Couture; Karen David,Russell Mulcahy,Fantasy; Action; Adventure,2008,109
+Chicken Little,Zach Braff; Joan Cusack; Dan Molina,Mark Dindal,Animation; Family; Comedy,2005,81
+"I, Daniel Blake",Dave Johns; Hayley Squires; Dylan McKiernan,Ken Loach,Drama,2016,100
+The Da Vinci Code,Tom Hanks; Audrey Tautou; Ian McKellen,Ron Howard,Thriller; Mystery,2006,149
+The Pink Panther 2,Steve Martin; Jean Reno; Emily Mortimer,Harald Zwart,Comedy; Mystery,2009,92
+French Connection II,Gene Hackman; Fernando Rey; Bernard Fresson,John Frankenheimer,Action; Crime; Drama; Thriller,1975,119
+Man of Steel,Henry Cavill; Amy Adams; Michael Shannon,Zack Snyder,Action; Adventure; Fantasy; Science Fiction,2013,143
+The Departed,Leonardo DiCaprio; Matt Damon; Jack Nicholson,Martin Scorsese,Drama; Thriller; Crime,2006,151
+9,Christopher Plummer; Martin Landau; John C. Reilly,Shane Acker,Action; Adventure; Animation; Science Fiction; Thriller,2009,79
+Gravity,Sandra Bullock; George Clooney; Ed Harris,Alfonso Cuarón,Science Fiction; Thriller; Drama,2013,91
+Predator,Arnold Schwarzenegger; Carl Weathers; Elpidia Carrillo,John McTiernan,Science Fiction; Action; Adventure; Thriller,1987,107
+Transformers: Age of Extinction,Mark Wahlberg; Stanley Tucci; Kelsey Grammer,Michael Bay,Science Fiction; Action; Adventure,2014,165
+We're the Millers,Jason Sudeikis; Jennifer Aniston; Will Poulter,Rawson Marshall Thurber,Comedy; Crime,2013,110
+Brimstone,Guy Pearce; Dakota Fanning; Carice van Houten,Martin Koolhoven,Mystery; Thriller; Western,2017,148
+Lilo & Stitch,Chris Sanders; Daveigh Chase; Tia Carrere,Dean DeBlois,Animation; Family,2002,85
+Prince of Persia: The Sands of Time,Jake Gyllenhaal; Gemma Arterton; Ben Kingsley,Mike Newell,Adventure; Fantasy; Action; Romance,2010,116
+Se7en,Brad Pitt; Morgan Freeman; Gwyneth Paltrow,David Fincher,Crime; Mystery; Thriller,1995,127
+Passenger 57,Wesley Snipes; Bruce Payne; Tom Sizemore,Kevin Hooks,Action; Adventure; Thriller,1992,84
+The Sixth Sense,Bruce Willis; Toni Collette; Olivia Williams,M. Night Shyamalan,Mystery; Thriller; Drama,1999,107
+Carrie,Chloë Grace Moretz; Julianne Moore; Judy Greer,Kimberly Peirce,Drama; Horror,2013,100
+Allegiant,Shailene Woodley; Theo James; Zoë Kravitz,Robert Schwentke,Adventure; Science Fiction,2016,121
+American Pie,Jason Biggs; Chris Klein; Thomas Ian Nicholas,Chris Weitz,Comedy; Romance,1999,95
+Six Days Seven Nights,Harrison Ford; Anne Heche; David Schwimmer,Ivan Reitman,Action; Adventure; Comedy; Romance,1998,98
+Inferno,Tom Hanks; Felicity Jones; Omar Sy,Ron Howard,Thriller,2016,121
+Donnie Darko,Jake Gyllenhaal; Jena Malone; Patrick Swayze,Richard Kelly,Fantasy; Drama; Mystery,2001,113
+Sully,Tom Hanks; Aaron Eckhart; Laura Linney,Clint Eastwood,Drama; History,2016,96
+Need for Speed,Aaron Paul; Dominic Cooper; Imogen Poots,Scott Waugh,Action; Crime; Drama; Thriller,2014,130
+The Punisher,Thomas Jane; John Travolta; Will Patton,Jonathan Hensleigh,Action; Crime; Drama,2004,124
+On the Waterfront,Marlon Brando; Karl Malden; Lee J. Cobb,Elia Kazan,Crime; Drama,1954,108
+Vertigo,James Stewart; Kim Novak; Barbara Bel Geddes,Alfred Hitchcock,Mystery; Romance; Thriller,1958,128
+Platoon,Tom Berenger; Charlie Sheen; Willem Dafoe,Oliver Stone,Drama; War; Action,1986,120
+Birdman,Michael Keaton; Emma Stone; Zach Galifianakis,Alejandro González Iñárritu,Drama; Comedy,2014,119
+Spy Game,Robert Redford; Brad Pitt; Catherine McCormack,Tony Scott,Action; Crime; Thriller,2001,126
+Mulholland Drive,Naomi Watts; Laura Harring; Ann Miller,David Lynch,Thriller; Drama; Mystery,2001,147
+The Bourne Ultimatum,Matt Damon; Julia Stiles; David Strathairn,Paul Greengrass,Action; Drama; Mystery; Thriller,2007,115
+American History X,Edward Norton; Edward Furlong; Beverly D'Angelo,Tony Kaye,Drama,1998,119
+Flying Swords of Dragon Gate,Jet Li; Zhou Xun; Chen Kun,Tsui Hark,Adventure; Action,2011,125
+Annie Hall,Woody Allen; Diane Keaton; Tony Roberts,Woody Allen,Comedy; Drama; Romance,1977,93
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",William Moseley; Anna Popplewell; Skandar Keynes,Andrew Adamson,Adventure; Family; Fantasy,2005,143
+300,Gerard Butler; Lena Headey; Dominic West,Zack Snyder,Action; Adventure; War,2006,117
+Taken 3,Liam Neeson; Forest Whitaker; Maggie Grace,Olivier Megaton,Thriller; Action,2014,109
+3:10 to Yuma,Russell Crowe; Christian Bale; Logan Lerman,James Mangold,Western,2007,122
+13 Hours: The Secret Soldiers of Benghazi,James Badge Dale; John Krasinski; Max Martini,Michael Bay,Action; Drama; History; Thriller; War,2016,144
+Disturbia,Shia LaBeouf; Sarah Roemer; Carrie-Anne Moss,D.J. Caruso,Thriller; Drama; Mystery,2007,105
+Shark Tale,Will Smith; Robert De Niro; Renée Zellweger,Vicky Jenson,Animation; Action; Comedy; Family,2004,90
+Shrek,Mike Myers; Eddie Murphy; Cameron Diaz,Andrew Adamson,Adventure; Animation; Comedy; Family; Fantasy,2001,90
+Their Finest,Gemma Arterton; Sam Claflin; Bill Nighy,Lone Scherfig,Romance; War; Comedy; Drama,2017,117
+Identity,John Cusack; Ray Liotta; Amanda Peet,James Mangold,Mystery; Thriller,2003,90
+School of Rock,Jack Black; Joan Cusack; Mike White,Richard Linklater,Comedy; Music,2003,108
+The Curious Case of Benjamin Button,Cate Blanchett; Brad Pitt; Tilda Swinton,David Fincher,Fantasy; Drama; Thriller; Mystery; Romance,2008,166
+Heat,Al Pacino; Robert De Niro; Val Kilmer,Michael Mann,Action; Crime; Drama; Thriller,1995,170
+xXx: Return of Xander Cage,Vin Diesel; Ice Cube; Samuel L. Jackson,D.J. Caruso,Action; Adventure; Crime,2017,107
+Rear Window,James Stewart; Grace Kelly; Wendell Corey,Alfred Hitchcock,Drama; Mystery; Thriller,1954,112
+The Judge,Robert Duvall; Robert Downey Jr.; Vera Farmiga,David Dobkin,Drama,2014,141
+3 Days to Kill,Kevin Costner; Amber Heard; Hailee Steinfeld,McG,Action; Drama; Thriller; Crime,2014,113
+Michael Jackson's Thriller,Michael Jackson; Ola Ray; Vincent Price,John Landis,Horror; Music,1983,13
+Now You See Me,Jesse Eisenberg; Mark Ruffalo; Woody Harrelson,Louis Leterrier,Thriller; Crime,2013,115
+Mission: Impossible - Rogue Nation,Tom Cruise; Rebecca Ferguson; Simon Pegg,Christopher McQuarrie,Action; Adventure; Thriller,2015,131
+Life of Crime,John Hawkes; Yasiin Bey; Jennifer Aniston,Daniel Schechter,Comedy; Crime,2013,94
+Planet of the Apes,Charlton Heston; Roddy McDowall; Kim Hunter,Franklin J. Schaffner,Science Fiction; Adventure; Drama; Action,1968,112
+Operation Chromite,Lee Jung-jae; Liam Neeson; Lee Beom-soo,John H. Lee,History; Drama; War; Action,2016,110
+The Nightmare Before Christmas,Danny Elfman; Chris Sarandon; Catherine O'Hara,Henry Selick,Fantasy; Animation; Family,1993,76
+A Man Apart,Vin Diesel; Larenz Tate; Timothy Olyphant,F. Gary Gray,Action; Drama,2003,109
+Dogtooth,Hristos Passalis; Angeliki Papoulia; Mary Tsoni,Yorgos Lanthimos,Drama,2009,94
+Legend of the Guardians: The Owls of Ga'Hoole,Emily Barclay; Abbie Cornish; Essie Davis,Zack Snyder,Animation; Adventure; Family; Fantasy,2010,97
+28 Days Later,Cillian Murphy; Naomie Harris; Noah Huntley,Danny Boyle,Horror; Thriller; Science Fiction,2002,113
+Anna and the King,Jodie Foster; Chow Yun-fat; Bai Ling,Andy Tennant,Drama; History; Romance,1999,148
+T2 Trainspotting,Ewan McGregor; Jonny Lee Miller; Ewen Bremner,Danny Boyle,Crime; Drama,2017,117
+Independence Day,Will Smith; Bill Pullman; Jeff Goldblum,Roland Emmerich,Action; Adventure; Science Fiction,1996,145
+Kung Fu Yoga,Jackie Chan; Disha Patani; Sonu Sood,Stanley Tong,Mystery; Action; Adventure; Comedy,2017,130
+The Equalizer,Denzel Washington; Marton Csokas; Chloë Grace Moretz,Antoine Fuqua,Thriller; Action; Crime,2014,132
+Edward Scissorhands,Johnny Depp; Winona Ryder; Dianne Wiest,Tim Burton,Fantasy; Drama; Romance,1990,105
+Child 44,Tom Hardy; Gary Oldman; Noomi Rapace,Daniel Espinosa,Crime; Thriller,2015,137
+Sinister 2,Shannyn Sossamon; James Ransone; Robert Daniel Sloan,Ciaran Foy,Horror,2015,97
+The Great Gatsby,Leonardo DiCaprio; Tobey Maguire; Carey Mulligan,Baz Luhrmann,Drama; Romance,2013,143
+Sausage Party,Seth Rogen; Kristen Wiig; Jonah Hill,Conrad Vernon,Adventure; Animation; Comedy; Fantasy,2016,83
+Addams Family Values,Raúl Juliá; Anjelica Huston; Christopher Lloyd,Barry Sonnenfeld,Comedy; Family; Fantasy,1993,94
+Toy Story 2,Tom Hanks; Tim Allen; Joan Cusack,John Lasseter,Animation; Comedy; Family,1999,92
+The Founder,Michael Keaton; Nick Offerman; John Carroll Lynch,John Lee Hancock,Drama; History,2016,115
+Showgirls,Elizabeth Berkley; Kyle MacLachlan; Gina Gershon,Paul Verhoeven,Drama,1995,128
+The Little Mermaid,Jodi Benson; Christopher Daniel Barnes; Jason Marin,Ron Clements,Animation; Family,1989,83
+The Jungle Book,Neel Sethi; Bill Murray; Ben Kingsley,Jon Favreau,Family; Adventure; Drama; Fantasy,2016,106
+Wild Orchid,Jacqueline Bisset; Carré Otis; Mickey Rourke,Zalman King,Drama; Romance,1989,105
+"See No Evil, Hear No Evil",Richard Pryor; Gene Wilder; Joan Severance,Arthur Hiller,Crime; Comedy,1989,103
+Saw VI,Tobin Bell; Costas Mandylor; Betsy Russell,Kevin Greutert,Horror; Mystery,2009,90
+Ice Age,Ray Romano; John Leguizamo; Denis Leary,Chris Wedge,Animation; Comedy; Family; Adventure,2002,81
+Planet of the Apes,Mark Wahlberg; Tim Roth; Helena Bonham Carter,Tim Burton,Thriller; Science Fiction; Action; Adventure,2001,119
+Trainwreck,Amy Schumer; Bill Hader; Brie Larson,Judd Apatow,Comedy,2015,125
+Alice in Wonderland,Mia Wasikowska; Johnny Depp; Anne Hathaway,Tim Burton,Family; Fantasy; Adventure,2010,108
+Kick-Ass,Aaron Taylor-Johnson; Chloë Grace Moretz; Christopher Mintz-Plasse,Matthew Vaughn,Action; Crime,2010,117
+The Huntsman: Winter's War,Chris Hemsworth; Charlize Theron; Emily Blunt,Cedric Nicolas-Troyan,Action; Adventure; Drama,2016,114
+Insidious,Patrick Wilson; Rose Byrne; Ty Simpkins,James Wan,Horror; Thriller,2010,103
+Fantastic Four,Miles Teller; Kate Mara; Michael B. Jordan,Josh Trank,Action; Adventure; Science Fiction,2015,100
+Amateur Night,Jason Biggs; Janet Montgomery; Jenny Mollen,Lisa Addario,Comedy,2016,89
+Holes,Sigourney Weaver; Jon Voight; Tim Blake Nelson,Andrew Davis,Adventure; Family; Drama; Comedy,2003,117
+True Romance,Christian Slater; Patricia Arquette; Michael Rapaport,Tony Scott,Action; Thriller; Crime; Romance,1993,120
+A Most Violent Year,Oscar Isaac; Jessica Chastain; Albert Brooks,J.C. Chandor,Crime; Drama; Thriller,2014,125
+The Godfather: Part III,Al Pacino; Diane Keaton; Andy García,Francis Ford Coppola,Crime; Drama; Thriller,1990,162
+Two Is a Family,Omar Sy; Clémence Poésy; Antoine Bertrand,Hugo Gélin,Drama; Comedy,2016,118
+Princess Mononoke,Yōji Matsuda; Yuriko Ishida; Yūko Tanaka,Hayao Miyazaki,Adventure; Fantasy; Animation,1997,134
+Ghostbusters,Melissa McCarthy; Kristen Wiig; Kate McKinnon,Paul Feig,Action; Fantasy; Comedy,2016,116
+Tomorrow Never Dies,Pierce Brosnan; Jonathan Pryce; Michelle Yeoh,Roger Spottiswoode,Adventure; Action; Thriller,1997,119
+Robin Hood: Men in Tights,Cary Elwes; Dom DeLuise; Roger Rees,Mel Brooks,Comedy,1993,104
+Alien³,Sigourney Weaver; Charles S. Dutton; Charles Dance,David Fincher,Science Fiction; Action; Horror,1992,114
+A Clockwork Orange,Malcolm McDowell; Patrick Magee; Adrienne Corri,Stanley Kubrick,Science Fiction; Drama,1971,136
+Teen Titans: The Judas Contract,Stuart Allan; Jake T. Austin; Taissa Farmiga,Sam Liu,Science Fiction; Animation; Action,2017,84
+Lion,Sunny Pawar; Dev Patel; Rooney Mara,Garth Davis,Drama,2016,118
+The Lego Batman Movie,Will Arnett; Zach Galifianakis; Michael Cera,Chris McKay,Action; Animation; Comedy; Family; Fantasy,2017,104
+Blade II,Wesley Snipes; Kris Kristofferson; Ron Perlman,Guillermo del Toro,Fantasy; Horror; Action; Thriller,2002,117
+When the Bough Breaks,Morris Chestnut; Regina Hall; Romany Malco,Jon Cassar,Mystery; Drama; Horror,2016,97
+Batman & Robin,George Clooney; Chris O'Donnell; Arnold Schwarzenegger,Joel Schumacher,Action; Crime; Fantasy,1997,125
+Mine,Armie Hammer; Annabelle Wallis; Tom Cullen,Fabio Guaglione,Thriller; War,2016,106
+The Boy,Lauren Cohan; Rupert Evans; James Russell,William Brent Bell,Horror; Mystery; Thriller,2016,97
+Paul Blart: Mall Cop 2,Kevin James; Raini Rodriguez; Eduardo Verástegui,Andy Fickman,Action; Comedy; Family,2015,94
+Jumanji,Robin Williams; Jonathan Hyde; Kirsten Dunst,Joe Johnston,Adventure; Fantasy; Family,1995,104
+Independence Day: Resurgence,Liam Hemsworth; Jeff Goldblum; Bill Pullman,Roland Emmerich,Action; Adventure; Science Fiction,2016,120
+The Social Network,Jesse Eisenberg; Andrew Garfield; Justin Timberlake,David Fincher,Drama,2010,120
+Smurfs: The Lost Village,Julia Roberts; Ariel Winter; Ellie Kemper,Kelly Asbury,Adventure; Animation; Comedy; Family,2017,89
+Toy Story 3,Tom Hanks; Tim Allen; Ned Beatty,Lee Unkrich,Animation; Family; Comedy,2010,103
+The Mummy Returns,Brendan Fraser; Rachel Weisz; John Hannah,Stephen Sommers,Adventure; Action; Fantasy,2001,130
+The Prestige,Hugh Jackman; Christian Bale; Michael Caine,Christopher Nolan,Drama; Mystery; Thriller,2006,130
+Danny Collins,Al Pacino; Annette Bening; Jennifer Garner,Dan Fogelman,Comedy; Drama; Music,2015,107
+Kung Fu Panda,Jack Black; Dustin Hoffman; Angelina Jolie,Mark Osborne,Adventure; Animation; Family; Comedy,2008,90
+Inglourious Basterds,Brad Pitt; Mélanie Laurent; Christoph Waltz,Quentin Tarantino,Drama; Action; Thriller; War,2009,153
+Waterworld,Kevin Costner; Chaim Girafi; Rick Aviles,Kevin Reynolds,Adventure; Action,1995,135
+Highlander,Christopher Lambert; Roxanne Hart; Clancy Brown,Russell Mulcahy,Adventure; Action; Fantasy,1986,116
+A Bug's Life,Kevin Spacey; Julia Louis-Dreyfus; Hayden Panettiere,John Lasseter,Adventure; Animation; Comedy; Family,1998,95
+Peter Pan,Bobby Driscoll; Kathryn Beaumont; Hans Conried,Clyde Geronimi,Animation; Music; Family; Adventure; Fantasy,1953,77
+Run All Night,Liam Neeson; Ed Harris; Joel Kinnaman,Jaume Collet-Serra,Action; Crime; Drama; Mystery; Thriller,2015,114
+Trolls,Anna Kendrick; Justin Timberlake; Zooey Deschanel,Mike Mitchell,Adventure; Animation; Family,2016,92
+The Thing,Kurt Russell; Keith David; Wilford Brimley,John Carpenter,Horror; Mystery; Science Fiction,1982,109
+Hidden Figures,Taraji P. Henson; Octavia Spencer; Janelle Monae,Theodore Melfi,Drama,2016,127
+"The Good, the Bad and the Ugly",Eli Wallach; Clint Eastwood; Lee Van Cleef,Sergio Leone,Western,1966,161
+Who Framed Roger Rabbit,Bob Hoskins; Christopher Lloyd; Joanna Cassidy,Robert Zemeckis,Fantasy; Animation; Comedy; Crime; Family,1988,104
+Ricki and the Flash,Meryl Streep; Kevin Kline; Mamie Gummer,Jonathan Demme,Comedy; Drama; Music,2015,100
+Dracula,Gary Oldman; Winona Ryder; Anthony Hopkins,Francis Ford Coppola,Romance; Horror,1992,128
+Men in Black II,Tommy Lee Jones; Will Smith; Rip Torn,Barry Sonnenfeld,Action; Adventure; Comedy; Science Fiction,2002,88
+A Mighty Heart,Angelina Jolie; Dan Futterman; Irrfan Khan,Michael Winterbottom,Drama; Thriller,2007,100
+Irreversible,Monica Bellucci; Vincent Cassel; Albert Dupontel,Gaspar Noé,Drama; Thriller; Crime; Mystery,2002,97
+Field of Dreams,Kevin Costner; Amy Madigan; Gaby Hoffmann,Phil Alden Robinson,Drama; Fantasy,1989,107
+The A-Team,Liam Neeson; Bradley Cooper; Jessica Biel,Joe Carnahan,Thriller; Action; Adventure; Comedy; Crime,2010,117
+The Handmaiden,Kim Min-hee; Kim Tae-Ri; Ha Jung-woo,Park Chan-wook,Thriller; Drama; Romance,2016,145
+Spirit: Stallion of the Cimarron,Matt Damon; James Cromwell; Daniel Studi,Kelly Asbury,Western; Animation; Adventure; Comedy; Family,2002,83
+The Fury of a Patient Man,Antonio de la Torre; Luis Callejo; Ruth Díaz,Raúl Arévalo,Thriller,2016,92
+High Noon,Gary Cooper; Grace Kelly; Thomas Mitchell,Fred Zinnemann,Western,1952,85
+2012,John Cusack; Amanda Peet; Chiwetel Ejiofor,Roland Emmerich,Action; Adventure; Science Fiction,2009,158
+Night at the Museum,Ben Stiller; Jake Cherry; Carla Gugino,Shawn Levy,Action; Adventure; Comedy; Family; Fantasy,2006,108
+Ice Age: The Meltdown,Ray Romano; John Leguizamo; Denis Leary,Carlos Saldanha,Animation; Family; Comedy; Adventure,2006,91
+Badlands,Martin Sheen; Sissy Spacek; Ramon Bieri,Terrence Malick,Crime; Drama,1973,94
+The Omen,Gregory Peck; Lee Remick; David Warner,Richard Donner,Horror; Thriller,1976,111
+Die Hard,Bruce Willis; Alan Rickman; Alexander Godunov,John McTiernan,Action; Thriller,1988,131
+Coraline,Dakota Fanning; Teri Hatcher; Jennifer Saunders,Henry Selick,Animation; Family,2009,100
+Law Abiding Citizen,Jamie Foxx; Gerard Butler; Colm Meaney,F. Gary Gray,Drama; Crime; Thriller,2009,109
+Basic Instinct,Michael Douglas; Sharon Stone; George Dzundza,Paul Verhoeven,Thriller; Mystery,1992,127
+Saw: The Final Chapter,Tobin Bell; Costas Mandylor; Betsy Russell,Kevin Greutert,Horror; Crime,2010,90
+Prometheus,Noomi Rapace; Michael Fassbender; Guy Pearce,Ridley Scott,Science Fiction; Adventure; Mystery,2012,124
+The Princess and the Frog,Anika Noni Rose; Bruno Campos; Keith David,Ron Clements,Romance; Family; Animation; Music,2009,97
+Jaws 3-D,Dennis Quaid; Bess Armstrong; Simon MacCorkindale,Joe Alves,Thriller; Horror,1983,99
+Tron,Jeff Bridges; Bruce Boxleitner; David Warner,Steven Lisberger,Science Fiction; Action; Adventure,1982,96
+Watchmen,Malin Åkerman; Billy Crudup; Matthew Goode,Zack Snyder,Action; Mystery; Science Fiction,2009,163
