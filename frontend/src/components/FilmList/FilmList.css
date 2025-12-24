@@ -194,24 +194,3 @@
     text-align: center;
   }
 }
-
-/* Light Theme */
-[data-theme="light"] .film-list-section {
-  background: var(--bg-secondary);
-  border-color: rgba(0, 0, 0, 0.08);
-}
-
-[data-theme="light"] .meta-badge {
-  background: rgba(0, 0, 0, 0.03);
-  border-color: rgba(0, 0, 0, 0.08);
-}
-
-[data-theme="light"] .filter-select {
-  background: var(--bg-tertiary);
-  border-color: rgba(0, 0, 0, 0.1);
-}
-
-[data-theme="light"] .page-btn {
-  background: rgba(0, 0, 0, 0.03);
-  border-color: rgba(0, 0, 0, 0.08);
-}
