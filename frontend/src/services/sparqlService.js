@@ -23,7 +23,7 @@ export const executeSparql = async (query) => {
   }
 };
 
-// Récupérer tous les films
+// Récupérer tous les films (dédupliqués côté JS)
 export const getAllFilms = async () => {
   const query = `
     PREFIX ns: <http://example.org/film#>
@@ -45,7 +45,34 @@ export const getAllFilms = async () => {
     }
     ORDER BY ?titre
   `;
-  return await executeSparql(query);
+  const results = await executeSparql(query);
+
+  // Dédupliquer et agréger les genres côté JavaScript
+  const filmsMap = new Map();
+  results.forEach(r => {
+    const uri = r.uri?.value;
+    if (!uri) return;
+
+    if (!filmsMap.has(uri)) {
+      filmsMap.set(uri, {
+        uri: r.uri,
+        titre: r.titre,
+        annee: r.annee,
+        duree: r.duree,
+        realisateur: r.realisateur,
+        genres: new Set()
+      });
+    }
+    if (r.genre?.value) {
+      filmsMap.get(uri).genres.add(r.genre.value);
+    }
+  });
+
+  // Convertir en tableau avec genres joints
+  return Array.from(filmsMap.values()).map(film => ({
+    ...film,
+    genre: { value: Array.from(film.genres).join(', ') }
+  }));
 };
 
 // Récupérer les détails d'un film
@@ -74,24 +101,28 @@ export const getFilmDetails = async (filmUri) => {
   return await executeSparql(query);
 };
 
-// Recommandations par même acteur
+// Recommandations par même acteur (dédupliqués côté JS)
 export const getRecommendationsByActor = async (filmUri) => {
   const query = `
     PREFIX ns: <http://example.org/film#>
 
-    SELECT DISTINCT ?uri ?titre ?annee ?genre WHERE {
+    SELECT DISTINCT ?uri ?titre ?annee WHERE {
       <${filmUri}> ns:hasActor ?actor .
       ?uri ns:hasActor ?actor .
       ?uri ns:titre ?titre .
       OPTIONAL { ?uri ns:releaseYear ?annee }
-      OPTIONAL {
-        ?uri ns:hasGenre ?genreUri .
-        ?genreUri ns:nom ?genre .
-      }
       FILTER(?uri != <${filmUri}>)
     }
   `;
-  return await executeSparql(query);
+  const results = await executeSparql(query);
+  // Dédupliquer par URI
+  const seen = new Set();
+  return results.filter(r => {
+    const uri = r.uri?.value;
+    if (seen.has(uri)) return false;
+    seen.add(uri);
+    return true;
+  });
 };
 
 // Recommandations par même genre
@@ -126,7 +157,7 @@ export const getRecommendationsByDirector = async (filmUri) => {
   return await executeSparql(query);
 };
 
-// Rechercher des films par titre
+// Rechercher des films par titre (dédupliqués côté JS)
 export const searchFilms = async (searchTerm) => {
   const query = `
     PREFIX ns: <http://example.org/film#>
@@ -148,7 +179,32 @@ export const searchFilms = async (searchTerm) => {
     }
     ORDER BY ?titre
   `;
-  return await executeSparql(query);
+  const results = await executeSparql(query);
+
+  // Dédupliquer et agréger les genres côté JavaScript
+  const filmsMap = new Map();
+  results.forEach(r => {
+    const uri = r.uri?.value;
+    if (!uri) return;
+
+    if (!filmsMap.has(uri)) {
+      filmsMap.set(uri, {
+        uri: r.uri,
+        titre: r.titre,
+        annee: r.annee,
+        realisateur: r.realisateur,
+        genres: new Set()
+      });
+    }
+    if (r.genre?.value) {
+      filmsMap.get(uri).genres.add(r.genre.value);
+    }
+  });
+
+  return Array.from(filmsMap.values()).map(film => ({
+    ...film,
+    genre: { value: Array.from(film.genres).join(', ') }
+  }));
 };
 
 // Récupérer tous les genres
@@ -166,7 +222,7 @@ export const getAllGenres = async () => {
   return await executeSparql(query);
 };
 
-// Récupérer les films par genre
+// Récupérer les films par genre (dédupliqués côté JS)
 export const getFilmsByGenre = async (genreUri) => {
   const query = `
     PREFIX ns: <http://example.org/film#>
@@ -182,5 +238,13 @@ export const getFilmsByGenre = async (genreUri) => {
     }
     ORDER BY ?titre
   `;
-  return await executeSparql(query);
+  const results = await executeSparql(query);
+  // Dédupliquer par URI
+  const seen = new Set();
+  return results.filter(r => {
+    const uri = r.uri?.value;
+    if (seen.has(uri)) return false;
+    seen.add(uri);
+    return true;
+  });
 };

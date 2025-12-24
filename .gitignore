@@ -12,3 +12,11 @@ env/
 
 # Données brutes - NE PAS COMMITTER
 data/raw/
+
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Fichiers generes
+*.ttl
+*.log

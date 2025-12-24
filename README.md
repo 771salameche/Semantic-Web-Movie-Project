@@ -15,16 +15,25 @@ Le projet est structuré de manière modulaire pour séparer les différentes co
 ```
 .
 ├── 📄 README.md
-├──  ontology/
-│   └── films.owl           # Fichier de l'ontologie (Protégé)
+├── 📄 requirements.txt              # Dépendances Python
+├── clean_data.py                    # Script de nettoyage des données
 ├── data/
-│   ├── raw/                # Datasets bruts (ex: movies_metadata.csv)
-│   └── processed/          # Données nettoyées prêtes pour l'ontologie (films_clean.csv)
-├── queries/
-│   └── examples.sparql     # Exemples de requêtes SPARQL
-├── report/
-│   └── rapport_projet.pdf  # Rapport final du projet
-└── clean_data.py           # Script Python pour le nettoyage des données
+│   ├── raw/                         # Datasets bruts (movies_metadata.csv, credits.csv)
+│   └── processed/
+│       └── films_clean.csv          # Données nettoyées (500 films)
+├── Modélisation ET peuplement de l'ontologie/
+│   ├── create_ontology.py           # Script de peuplement de l'ontologie
+│   └── films_ontology.ttl           # Ontologie peuplée (format Turtle)
+├── frontend/                        # Application React
+│   ├── src/
+│   │   ├── components/              # Composants UI
+│   │   ├── services/sparqlService.js
+│   │   └── App.jsx
+│   └── package.json
+├── tests/
+│   └── test_sparql.sh               # Tests automatisés
+└── queries/
+    └── examples.sparql              # Exemples de requêtes SPARQL
 ```
 
 ## 🧠 Modélisation de l'Ontologie
@@ -58,7 +67,13 @@ Le système de recommandation s'appuie sur des inférences logiques permises par
 
 ## 🚀 Instructions d'Utilisation
 
-### 1. Préparation des données
+### 1. Installation des dépendances
+```bash
+pip install -r requirements.txt
+cd frontend && npm install
+```
+
+### 2. Préparation des données
 Le script `clean_data.py` charge les datasets bruts, les nettoie et génère un fichier `films_clean.csv` compatible avec notre ontologie.
 
 Pour l'exécuter, assurez-vous d'avoir placé les fichiers `movies_metadata.csv` et `credits.csv` dans le dossier `data/raw/`, puis lancez la commande suivante à la racine du projet :
@@ -67,11 +82,33 @@ python clean_data.py
 ```
 Le fichier de sortie sera généré dans `data/processed/`.
 
-### 2. Chargement de l'ontologie
-1.  Ouvrez le logiciel **Protégé Desktop**.
-2.  Allez dans `File > Open...`.
-3.  Naviguez jusqu'au dossier `ontology/` et sélectionnez le fichier `films.owl`.
-4.  L'ontologie est maintenant chargée. Vous pouvez la visualiser, la modifier et l'interroger via l'onglet `SPARQL Query`.
+### 3. Peuplement de l'ontologie
+```bash
+python "Modélisation ET peuplement de l'ontologie/create_ontology.py"
+```
+Cela génère le fichier `films_ontology.ttl` avec 500 films, 933 acteurs, 330 réalisateurs et 18 genres.
+
+### 4. Lancer Apache Jena Fuseki
+```bash
+cd chemin/vers/fuseki
+.\fuseki-server.bat
+```
+Puis dans l'interface web (http://localhost:3030) :
+1. Créer un dataset nommé `films`
+2. Uploader le fichier `films_ontology.ttl`
+
+### 5. Lancer le frontend
+```bash
+cd frontend
+npm start
+```
+L'application sera accessible sur http://localhost:3000
+
+### 6. Exécuter les tests
+```bash
+cd tests
+bash test_sparql.sh
+```
 
 ## 🧑‍🎓 Auteurs
 
