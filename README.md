@@ -26,12 +26,8 @@ Le projet est structuré de manière modulaire pour séparer les différentes co
 │   └── films_ontology.ttl           # Ontologie peuplée (format Turtle)
 ├── frontend/                        # Application React
 │   ├── src/
-│   │   ├── components/              # Composants UI (FilmCard, Header, etc.)
-│   │   ├── context/                 # Gestion d'état React
-│   │   ├── hooks/                   # useFilms, useRecommendations, useTheme
-│   │   ├── services/
-│   │   │   ├── sparqlService.js     # Requêtes SPARQL
-│   │   │   └── tmdbService.js       # API TMDB pour posters
+│   │   ├── components/              # Composants UI
+│   │   ├── services/sparqlService.js
 │   │   └── App.jsx
 │   └── package.json
 ├── tests/
@@ -65,14 +61,9 @@ Le système de recommandation s'appuie sur des inférences logiques permises par
 
 ## 🛠️ Technologies Utilisées
 
-| Composant | Technologie |
-|-----------|-------------|
-| **Nettoyage données** | Python 3, Pandas |
-| **Ontologie** | RDFLib, format Turtle |
-| **Backend SPARQL** | Apache Jena Fuseki |
-| **Frontend** | React 18, Axios |
-| **Posters films** | API TMDB (The Movie Database) |
-| **Requêtes** | SPARQL 1.1 |
+- **Python (Pandas)**: Pour le prétraitement, le nettoyage et la préparation des données brutes avant leur intégration dans l'ontologie.
+- **Protégé**: Outil de modélisation de référence pour la création et la gestion de notre ontologie au format OWL.
+- **SPARQL**: Langage de requête utilisé pour interroger la base de connaissances et formuler les logiques de recommandation.
 
 ## 🚀 Démarrage Rapide
 
@@ -165,21 +156,9 @@ Cela génère `films_ontology.ttl` avec :
 
 | Action | Description |
 |--------|-------------|
-| **Parcourir** | Voir la liste des 500 films avec pagination |
-| **Rechercher** | Rechercher par titre, acteur, réalisateur ou genre |
-| **Filtrer** | Filtrer par genre via le menu déroulant |
-| **Trier** | Trier par titre (A-Z) ou année (récent/ancien) |
-| **Thème** | Basculer entre mode sombre et clair (bouton ☀️/🌙) |
+| **Parcourir** | Voir la liste des 500 films |
+| **Rechercher** | Taper un titre dans la barre de recherche |
 | **Recommandations** | Cliquer sur un film pour voir les films similaires |
-
-### Fonctionnalités du Frontend
-
-- 🎬 **Posters TMDB** : Affiches de films via l'API The Movie Database
-- 🎨 **Design Glassmorphism** : Interface moderne avec effets de verre
-- 🌓 **Mode sombre/clair** : Thème personnalisable avec persistance
-- 🔍 **Recherche avancée** : Par titre, acteur, réalisateur ou genre
-- 📄 **Pagination** : 20 films par page
-- ⭐ **Notes TMDB** : Affichage des notes des films
 
 ### Critères de Recommandation
 
