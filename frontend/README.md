@@ -34,9 +34,11 @@ src/
 │   └── FilmContext.jsx     # Context API (etat global)
 ├── hooks/
 │   ├── useFilms.js         # Hook pour charger les films
-│   └── useRecommendations.js # Hook pour les recommandations
+│   ├── useRecommendations.js # Hook pour les recommandations
+│   └── useTheme.js         # Hook pour le theme sombre/clair
 ├── services/
-│   └── sparqlService.js    # Requetes SPARQL vers Fuseki
+│   ├── sparqlService.js    # Requetes SPARQL vers Fuseki
+│   └── tmdbService.js      # API TMDB pour les posters
 ├── App.jsx                 # Composant principal
 ├── App.css                 # Styles globaux
 └── index.js                # Point d'entree
@@ -59,7 +61,24 @@ L'application sera accessible sur **http://localhost:3000**
 
 ## Configuration
 
-Le endpoint SPARQL est configure dans `src/services/sparqlService.js` :
+### 1. Variables d'environnement
+
+Copier `.env.example` vers `.env` et configurer :
+
+```bash
+cp .env.example .env
+```
+
+```env
+# API TMDB pour les posters de films
+REACT_APP_TMDB_API_KEY=votre_cle_api_ici
+```
+
+Obtenir une cle API TMDB : https://www.themoviedb.org/settings/api
+
+### 2. Endpoint SPARQL
+
+Configure dans `src/services/sparqlService.js` :
 
 ```javascript
 const FUSEKI_ENDPOINT = 'http://localhost:3030/films/sparql';
@@ -70,19 +89,29 @@ const FUSEKI_ENDPOINT = 'http://localhost:3030/films/sparql';
 - Node.js 16+
 - Apache Jena Fuseki sur `http://localhost:3030`
 - Dataset `films` avec l'ontologie chargee
+- Cle API TMDB (optionnel, pour les posters)
 
 ## Services SPARQL
 
 | Fonction | Description |
 |----------|-------------|
 | `getAllFilms()` | Recupere tous les films |
-| `searchFilms(term)` | Recherche par titre |
+| `searchFilms(term)` | Recherche par titre, acteur, realisateur ou genre |
 | `getFilmDetails(uri)` | Details d'un film |
 | `getRecommendationsByActor(uri)` | Films avec memes acteurs |
 | `getRecommendationsByGenre(uri)` | Films du meme genre |
 | `getRecommendationsByDirector(uri)` | Films du meme realisateur |
 | `getAllGenres()` | Liste des genres |
 | `getFilmsByGenre(uri)` | Films par genre |
+
+## Services TMDB
+
+| Fonction | Description |
+|----------|-------------|
+| `getMoviePoster(title, year)` | Recupere le poster d'un film |
+| `getMoviePosters(films)` | Recupere les posters pour une liste |
+| `getPosterUrl(data, size)` | URL du poster avec taille |
+| `getBackdropUrl(data, size)` | URL du backdrop |
 
 ## Scripts disponibles
 

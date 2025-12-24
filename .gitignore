@@ -8,7 +8,10 @@ __pycache__/
 venv/
 .venv/
 env/
+
+# Variables d'environnement (contiennent des clés API)
 .env
+frontend/.env
 
 # Données brutes - NE PAS COMMITTER
 data/raw/
@@ -17,6 +20,8 @@ data/raw/
 frontend/node_modules/
 node_modules/
 
+# Build React (genere par npm run build)
+frontend/build/
+
 # Fichiers generes
-*.ttl
 *.log
