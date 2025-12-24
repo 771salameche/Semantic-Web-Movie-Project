@@ -65,50 +65,106 @@ Le système de recommandation s'appuie sur des inférences logiques permises par
 - **Protégé**: Outil de modélisation de référence pour la création et la gestion de notre ontologie au format OWL.
 - **SPARQL**: Langage de requête utilisé pour interroger la base de connaissances et formuler les logiques de recommandation.
 
-## 🚀 Instructions d'Utilisation
+## 🚀 Démarrage Rapide
 
-### 1. Installation des dépendances
+### Prérequis
+- **Python 3.8+** avec pip
+- **Node.js 16+** avec npm
+- **Apache Jena Fuseki** ([Télécharger ici](https://jena.apache.org/download/))
+- **Git Bash** (Windows) pour exécuter les tests
+
+### Installation
+
 ```bash
+# 1. Cloner le projet
+git clone https://github.com/votre-repo/film-recommendation.git
+cd film-recommendation
+
+# 2. Installer les dépendances Python
 pip install -r requirements.txt
-cd frontend && npm install
+
+# 3. Installer les dépendances Node.js
+cd frontend
+npm install
+cd ..
 ```
 
-### 2. Préparation des données
-Le script `clean_data.py` charge les datasets bruts, les nettoie et génère un fichier `films_clean.csv` compatible avec notre ontologie.
+### Lancement du Projet
 
-Pour l'exécuter, assurez-vous d'avoir placé les fichiers `movies_metadata.csv` et `credits.csv` dans le dossier `data/raw/`, puis lancez la commande suivante à la racine du projet :
+#### Étape 1 : Démarrer Apache Jena Fuseki
 ```bash
-python clean_data.py
+# Dans le dossier Fuseki
+cd chemin/vers/apache-jena-fuseki
+.\fuseki-server.bat          # Windows
+# ou
+./fuseki-server              # Linux/Mac
 ```
-Le fichier de sortie sera généré dans `data/processed/`.
+➡️ Fuseki sera accessible sur **http://localhost:3030**
 
-### 3. Peuplement de l'ontologie
-```bash
-python "Modélisation ET peuplement de l'ontologie/create_ontology.py"
-```
-Cela génère le fichier `films_ontology.ttl` avec 500 films, 933 acteurs, 330 réalisateurs et 18 genres.
+#### Étape 2 : Créer le dataset et charger l'ontologie
+1. Ouvrir **http://localhost:3030** dans le navigateur
+2. Cliquer sur **"Manage datasets"** → **"Add new dataset"**
+3. Nom du dataset : `films` | Type : **Persistent (TDB2)**
+4. Cliquer sur **"Create dataset"**
+5. Aller dans **"/films"** → **"Upload data"**
+6. Sélectionner le fichier `Modélisation ET peuplement de l'ontologie/films_ontology.ttl`
+7. Cliquer sur **"Upload"**
 
-### 4. Lancer Apache Jena Fuseki
-```bash
-cd chemin/vers/fuseki
-.\fuseki-server.bat
-```
-Puis dans l'interface web (http://localhost:3030) :
-1. Créer un dataset nommé `films`
-2. Uploader le fichier `films_ontology.ttl`
-
-### 5. Lancer le frontend
+#### Étape 3 : Démarrer le frontend React
 ```bash
 cd frontend
 npm start
 ```
-L'application sera accessible sur http://localhost:3000
+➡️ L'application sera accessible sur **http://localhost:3000**
 
-### 6. Exécuter les tests
+### Vérification
+
 ```bash
+# Exécuter les tests automatisés
 cd tests
 bash test_sparql.sh
 ```
+
+Résultat attendu : **10/10 tests passés**
+
+---
+
+## 📖 Guide Détaillé
+
+### Préparation des données (optionnel)
+
+Si vous souhaitez régénérer les données à partir des fichiers bruts :
+
+```bash
+# 1. Placer movies_metadata.csv et credits.csv dans data/raw/
+
+# 2. Nettoyer les données
+python clean_data.py
+
+# 3. Générer l'ontologie
+python "Modélisation ET peuplement de l'ontologie/create_ontology.py"
+```
+
+Cela génère `films_ontology.ttl` avec :
+- 500 films
+- 933 acteurs
+- 330 réalisateurs
+- 18 genres
+- **7976 triplets RDF**
+
+### Utilisation de l'Application
+
+| Action | Description |
+|--------|-------------|
+| **Parcourir** | Voir la liste des 500 films |
+| **Rechercher** | Taper un titre dans la barre de recherche |
+| **Recommandations** | Cliquer sur un film pour voir les films similaires |
+
+### Critères de Recommandation
+
+- 🎬 **Même réalisateur** : Films dirigés par le même Director
+- 🎭 **Même genre** : Films partageant au moins un Genre
+- ⭐ **Mêmes acteurs** : Films avec des Actors en commun
 
 ## 🧑‍🎓 Auteurs
 
