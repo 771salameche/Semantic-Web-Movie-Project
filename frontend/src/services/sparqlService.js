@@ -157,13 +157,14 @@ export const getRecommendationsByDirector = async (filmUri) => {
   return await executeSparql(query);
 };
 
-// Rechercher des films par titre (dédupliqués côté JS)
+// Rechercher des films par titre, acteur, réalisateur ou genre (dédupliqués côté JS)
 export const searchFilms = async (searchTerm) => {
+  const searchLower = searchTerm.toLowerCase();
   const query = `
     PREFIX ns: <http://example.org/film#>
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-    SELECT ?uri ?titre ?annee ?genre ?realisateur WHERE {
+    SELECT ?uri ?titre ?annee ?genre ?realisateur ?acteur WHERE {
       ?uri rdf:type ns:Film .
       ?uri ns:titre ?titre .
       OPTIONAL { ?uri ns:releaseYear ?annee }
@@ -175,7 +176,16 @@ export const searchFilms = async (searchTerm) => {
         ?uri ns:directedBy ?dirUri .
         ?dirUri ns:nom ?realisateur .
       }
-      FILTER(CONTAINS(LCASE(?titre), LCASE("${searchTerm}")))
+      OPTIONAL {
+        ?uri ns:hasActor ?actorUri .
+        ?actorUri ns:nom ?acteur .
+      }
+      FILTER(
+        CONTAINS(LCASE(?titre), "${searchLower}") ||
+        CONTAINS(LCASE(COALESCE(?realisateur, "")), "${searchLower}") ||
+        CONTAINS(LCASE(COALESCE(?acteur, "")), "${searchLower}") ||
+        CONTAINS(LCASE(COALESCE(?genre, "")), "${searchLower}")
+      )
     }
     ORDER BY ?titre
   `;
